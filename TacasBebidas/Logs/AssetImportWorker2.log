@@ -1,0 +1,313 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.24f1 (11fa355cd605) revision 1178165'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'pt' Physical Memory: 32473 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/erick.osouza1/Desktop/Taças e Bebidas
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+62482
+-job-worker-count
+9
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/erick.osouza1/Desktop/Taças e Bebidas
+C:/Users/erick.osouza1/Desktop/Taças e Bebidas
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [25056]  Target information:
+
+Player connection [25056]  * "[IP] 10.59.46.51 [Port] 0 [Flags] 2 [Guid] 748326287 [EditorId] 748326287 [Version] 1048832 [Id] WindowsEditor(7,SAN0674387W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [25056]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 748326287 [EditorId] 748326287 [Version] 1048832 [Id] WindowsEditor(7,SAN0674387W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [25056]  * "[IP] 172.21.112.1 [Port] 0 [Flags] 2 [Guid] 748326287 [EditorId] 748326287 [Version] 1048832 [Id] WindowsEditor(7,SAN0674387W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [25056] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [25056] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 79.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.24f1 (11fa355cd605)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/erick.osouza1/Desktop/Taças e Bebidas/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA RTX A2000 12GB (ID=0x2571)
+    Vendor:   NVIDIA
+    VRAM:     12110 MB
+    Driver:   31.0.15.5274
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.071145 seconds.
+- Loaded All Assemblies, in  2.377 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 622 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.904 seconds
+Domain Reload Profiling: 3278ms
+	BeginReloadAssembly (1610ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (202ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (115ms)
+	LoadAllAssembliesAndSetupDomain (438ms)
+		LoadAssemblies (1615ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (427ms)
+			TypeCache.Refresh (426ms)
+				TypeCache.ScanAssembly (388ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (904ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (873ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (701ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (112ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.994 seconds
+Refreshing native plugins compatible for Editor in 3.90 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.544 seconds
+Domain Reload Profiling: 3534ms
+	BeginReloadAssembly (1690ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (1218ms)
+		LoadAssemblies (1126ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (343ms)
+			TypeCache.Refresh (301ms)
+				TypeCache.ScanAssembly (277ms)
+			BuildScriptInfoCaches (37ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (544ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (379ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (304ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 3.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3688 unused Assets / (1.3 MB). Loaded Objects now: 4278.
+Memory consumption went from 111.4 MB to 110.1 MB.
+Total: 4.938300 ms (FindLiveObjects: 0.299700 ms CreateObjectMapping: 0.225100 ms MarkObjects: 3.576400 ms  DeleteObjects: 0.836000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1835735.644258 seconds.
+  path: Assets/ObjetosGerais/BL001.png
+  artifactKey: Guid(682db11abc8f7904dad953bd043a10ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/BL001.png using Guid(682db11abc8f7904dad953bd043a10ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61869387cf66566bd2d5f1815d7fd8f1') in 0.0643713 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ObjetosGerais/grass_withFlowers_centerCenter.png
+  artifactKey: Guid(7a01df0684350ce40bd97141a436e776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_withFlowers_centerCenter.png using Guid(7a01df0684350ce40bd97141a436e776) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '890c504766e635bf1eb790be30c27c84') in 0.0234655 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ObjetosGerais/grass_dried_bottomRight.png
+  artifactKey: Guid(b4666e84b79490e4fbc6d1225d639b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_dried_bottomRight.png using Guid(b4666e84b79490e4fbc6d1225d639b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f89fbf60b3e3a9ae389d73a7cc5058b1') in 0.0166398 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ObjetosGerais/grassDriedNight_bottomLeft.png
+  artifactKey: Guid(4c8e56403d661f24d8b1de4ab5ab86d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grassDriedNight_bottomLeft.png using Guid(4c8e56403d661f24d8b1de4ab5ab86d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f68b71c2f200102ff32c0b43168cfb3b') in 0.0154088 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ObjetosGerais/grass_centerCenter.png
+  artifactKey: Guid(b88d27151ea35f9418c4d54ac9f2a1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_centerCenter.png using Guid(b88d27151ea35f9418c4d54ac9f2a1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38a4b6de0bb16fa8b6bb4e501dcf89cf') in 0.0148851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ObjetosGerais/coin5.png
+  artifactKey: Guid(a2db67d8ef818d4489dd906b40586d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/coin5.png using Guid(a2db67d8ef818d4489dd906b40586d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6739486ec0192d1ac7ed4586d424748') in 0.0164517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ObjetosGerais/grass_topCenter.png
+  artifactKey: Guid(b885c787b10c021499fa75ffe8c2fad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_topCenter.png using Guid(b885c787b10c021499fa75ffe8c2fad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '919f020b4e54558875d57d1ac694ac12') in 0.0146119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ObjetosGerais/grass_7.png
+  artifactKey: Guid(150bf26cf204ac648aec08102e647c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_7.png using Guid(150bf26cf204ac648aec08102e647c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1aacf310bd110715aff7a766ab73d1fb') in 0.0168904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ObjetosGerais/bushFrame1.png
+  artifactKey: Guid(355fde6b7dc19e54fb17aea5e03b5e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/bushFrame1.png using Guid(355fde6b7dc19e54fb17aea5e03b5e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39b7b4fd87f48a525ede061eb1aed41a') in 0.0147265 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ObjetosGerais/coin6.png
+  artifactKey: Guid(b133fb0ccbb541148a6c87336c2fdae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/coin6.png using Guid(b133fb0ccbb541148a6c87336c2fdae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '430d8fc53fad28909c4a4e729f5770d1') in 0.0185586 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ObjetosGerais/grass_topLeft.png
+  artifactKey: Guid(88875948b1b4a0d479d9787956e7c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_topLeft.png using Guid(88875948b1b4a0d479d9787956e7c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a10ccc035488397995c6303357d05974') in 0.0097145 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ObjetosGerais/grassNight_bottomRight.png
+  artifactKey: Guid(ed8e026c175151f4d8f57344765d898a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grassNight_bottomRight.png using Guid(ed8e026c175151f4d8f57344765d898a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8e122319d65d2ec25cd23f69b4f70f5a') in 0.0089996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ObjetosGerais/bushFrame2.png
+  artifactKey: Guid(42e9c701bf38315409fe80c2b29e10f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/bushFrame2.png using Guid(42e9c701bf38315409fe80c2b29e10f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c7ec6ac2a91a1a91fe0140f625fa305') in 0.0091977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ObjetosGerais/grass_1.png
+  artifactKey: Guid(ea491f072250bd348b14329f0a153397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_1.png using Guid(ea491f072250bd348b14329f0a153397) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d446eae06a6c8f819aa5d570b538fc3') in 0.0088251 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

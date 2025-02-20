@@ -1,0 +1,1265 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.24f1 (11fa355cd605) revision 1178165'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'pt' Physical Memory: 32473 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/erick.osouza1/Desktop/Taças e Bebidas
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+62482
+-job-worker-count
+9
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/erick.osouza1/Desktop/Taças e Bebidas
+C:/Users/erick.osouza1/Desktop/Taças e Bebidas
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15316]  Target information:
+
+Player connection [15316]  * "[IP] 10.59.46.51 [Port] 0 [Flags] 2 [Guid] 1412393937 [EditorId] 1412393937 [Version] 1048832 [Id] WindowsEditor(7,SAN0674387W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [15316]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1412393937 [EditorId] 1412393937 [Version] 1048832 [Id] WindowsEditor(7,SAN0674387W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [15316]  * "[IP] 172.21.112.1 [Port] 0 [Flags] 2 [Guid] 1412393937 [EditorId] 1412393937 [Version] 1048832 [Id] WindowsEditor(7,SAN0674387W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [15316] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [15316] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 69.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.24f1 (11fa355cd605)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/erick.osouza1/Desktop/Taças e Bebidas/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA RTX A2000 12GB (ID=0x2571)
+    Vendor:   NVIDIA
+    VRAM:     12110 MB
+    Driver:   31.0.15.5274
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.072970 seconds.
+- Loaded All Assemblies, in  2.380 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 623 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.899 seconds
+Domain Reload Profiling: 3277ms
+	BeginReloadAssembly (1611ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (204ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (112ms)
+	LoadAllAssembliesAndSetupDomain (441ms)
+		LoadAssemblies (1616ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (430ms)
+			TypeCache.Refresh (428ms)
+				TypeCache.ScanAssembly (390ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (900ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (868ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (699ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (109ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.991 seconds
+Refreshing native plugins compatible for Editor in 3.74 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.547 seconds
+Domain Reload Profiling: 3533ms
+	BeginReloadAssembly (1696ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (1208ms)
+		LoadAssemblies (1129ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (333ms)
+			TypeCache.Refresh (295ms)
+				TypeCache.ScanAssembly (277ms)
+			BuildScriptInfoCaches (31ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (547ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (381ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (300ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 3.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3688 unused Assets / (1.2 MB). Loaded Objects now: 4278.
+Memory consumption went from 111.4 MB to 110.1 MB.
+Total: 4.784800 ms (FindLiveObjects: 0.293000 ms CreateObjectMapping: 0.236500 ms MarkObjects: 3.453700 ms  DeleteObjects: 0.800600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1835735.645983 seconds.
+  path: Assets/ObjetosGerais/block_3.png
+  artifactKey: Guid(0236b5ac4cd679843a9c81d3e12e7dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/block_3.png using Guid(0236b5ac4cd679843a9c81d3e12e7dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8603567fee319d93b17c2e350c18c997') in 0.058542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ObjetosGerais/grassDriedNight_topLeft.png
+  artifactKey: Guid(2abc7f8a469ef714da2cd5e4bbb813b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grassDriedNight_topLeft.png using Guid(2abc7f8a469ef714da2cd5e4bbb813b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '24f173c2d92c165c9728b7ceea21ff6b') in 0.0102461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ObjetosGerais/grassNight_centerCenter.png
+  artifactKey: Guid(887ddfe4efe16a54c81795872b36f402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grassNight_centerCenter.png using Guid(887ddfe4efe16a54c81795872b36f402) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be2ceb3c17f0f9a554d48b19aa5bab70') in 0.0166691 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ObjetosGerais/grass_withFlowers_centerLeft.png
+  artifactKey: Guid(8d07e98ae3de40a4087e3f53344aebdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_withFlowers_centerLeft.png using Guid(8d07e98ae3de40a4087e3f53344aebdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '180f97a2ddcdcf51b5d3f95f2fc827f9') in 0.0163222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ObjetosGerais/grass_withFlowers_topLeft.png
+  artifactKey: Guid(9cb721ffb61371b4a84867fbeadb0b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_withFlowers_topLeft.png using Guid(9cb721ffb61371b4a84867fbeadb0b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2fe0da97d64075665ad3e10b231b1b1') in 0.0160371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ObjetosGerais/grass_withFlowers_bottomLeft.png
+  artifactKey: Guid(a936aeaaa0023f749bf97ce4fba4098b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_withFlowers_bottomLeft.png using Guid(a936aeaaa0023f749bf97ce4fba4098b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09914f0c83357bcb0160435a57278c74') in 0.014734 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ObjetosGerais/grass_dried_topLeft.png
+  artifactKey: Guid(ea66864619718774b9f2c8f7feaf9584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_dried_topLeft.png using Guid(ea66864619718774b9f2c8f7feaf9584) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '912ce101feb4f9f759619b0333aea255') in 0.0165832 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ObjetosGerais/castleWalkway.png
+  artifactKey: Guid(7c8989938a5ef1f4b8dbb3ca1a2ca0a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/castleWalkway.png using Guid(7c8989938a5ef1f4b8dbb3ca1a2ca0a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91259c1319d8f0835f0cc17eb842fb3b') in 0.0148838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ObjetosGerais/grass_dried_centerRight.png
+  artifactKey: Guid(2a8f0432c7136314b8ca67efdedebb17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_dried_centerRight.png using Guid(2a8f0432c7136314b8ca67efdedebb17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38319178bed66af6873af5d1b5d83ef0') in 0.0164469 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ObjetosGerais/grass_dried_bottomCenter.png
+  artifactKey: Guid(7c2bb5ea34814a240ab66863490c64a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_dried_bottomCenter.png using Guid(7c2bb5ea34814a240ab66863490c64a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4bbaea23750f8bc54b0840713526ea2') in 0.0158286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ObjetosGerais/goldenBrownBlock.png
+  artifactKey: Guid(634cbe92978ba0f43ba23f6e5de4f611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/goldenBrownBlock.png using Guid(634cbe92978ba0f43ba23f6e5de4f611) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed8333279d730278443d868663356f25') in 0.0172487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ObjetosGerais/grass_4.png
+  artifactKey: Guid(d9ed1e8c514de334ca28b0f92f3a6497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_4.png using Guid(d9ed1e8c514de334ca28b0f92f3a6497) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '959a5fb8652fe0bb4da96612fd052e3f') in 0.0098353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ObjetosGerais/grass_withFlowers_centerRight.png
+  artifactKey: Guid(4c3d6f07d32df924a923d1c7e29c06e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_withFlowers_centerRight.png using Guid(4c3d6f07d32df924a923d1c7e29c06e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43989fd71979bd1d86a0b827423bb1a2') in 0.0089591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ObjetosGerais/coin2.png
+  artifactKey: Guid(57b144f89e19c3f41ade9e9a6c74a46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/coin2.png using Guid(57b144f89e19c3f41ade9e9a6c74a46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6041e46815fe24eb95558a4825dee5b8') in 0.0091485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ObjetosGerais/grass_bottomRight.png
+  artifactKey: Guid(78de6ba98946e26478277370211b0baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetosGerais/grass_bottomRight.png using Guid(78de6ba98946e26478277370211b0baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2b5fc00df7e830d919f43d8e473bca6') in 0.0091178 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.149128 seconds.
+  path: Assets/Multimidia/Scenes
+  artifactKey: Guid(189d755165125924a84a41631287e503) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Scenes using Guid(189d755165125924a84a41631287e503) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6618afa3ac0860605cefd6208b6e6520') in 0.0442911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012943 seconds.
+  path: Assets/Multimidia/ObjetosGerais/rocks_small.png
+  artifactKey: Guid(c678420049c54f74f88e719758a81e46) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/rocks_small.png using Guid(c678420049c54f74f88e719758a81e46) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bf34a8115739a830f6118c4e99d57ab2') in 0.0696669 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_bottomLeft.png
+  artifactKey: Guid(c74175d1dc862dc4f82520a6b0c2c125) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_bottomLeft.png using Guid(c74175d1dc862dc4f82520a6b0c2c125) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cb1327505b34d023506605e50b6e4451') in 0.0164457 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Multimidia/ObjetosGerais/stoneHouse_inside_bottomCenter.png
+  artifactKey: Guid(8c646070efb6dda4da136e82b2ed95eb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/stoneHouse_inside_bottomCenter.png using Guid(8c646070efb6dda4da136e82b2ed95eb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7053a16cba762d8b44681521a3b740e3') in 0.0165152 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Multimidia/ObjetosGerais/bush.png
+  artifactKey: Guid(d716f78623add854391898b1c506f2a1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/bush.png using Guid(d716f78623add854391898b1c506f2a1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '732a79b76cb3a6b69bbb12675fe1739a') in 0.015495 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Multimidia/Efeitos/FX02.aif
+  artifactKey: Guid(b5f02c2198e4a354081ea15998bcbda2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Efeitos/FX02.aif using Guid(b5f02c2198e4a354081ea15998bcbda2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fbea973df7c29460a246d5557c547f40') in 0.0339195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Multimidia/ObjetosGerais/RpgItems2.png
+  artifactKey: Guid(c520f1e7282803f40b4d7e8f32e705d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/RpgItems2.png using Guid(c520f1e7282803f40b4d7e8f32e705d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2cf47219787485544aeff61ead4e02d0') in 0.0138427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Multimidia/ObjetosGerais/castleWalkway.png
+  artifactKey: Guid(7c8989938a5ef1f4b8dbb3ca1a2ca0a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/castleWalkway.png using Guid(7c8989938a5ef1f4b8dbb3ca1a2ca0a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f9ef14e5016c1fae72f5f00fca5f9489') in 0.0149534 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Multimidia/ObjetosGerais/specialBlock_2.png
+  artifactKey: Guid(eab33b12aaa252247b469c24037c30fc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/specialBlock_2.png using Guid(eab33b12aaa252247b469c24037c30fc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2db8e2d4d034813cd818b3b9a9f5bfb8') in 0.0164068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Multimidia/ObjetosGerais/block_2.png
+  artifactKey: Guid(4fb3205659c23704f846d0bf49ef8868) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/block_2.png using Guid(4fb3205659c23704f846d0bf49ef8868) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '040961c4ed73ef948f1fb0abf9c308d1') in 0.0151149 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_centerLeft.png
+  artifactKey: Guid(c023bfb3bb297af489f916d903d4eaef) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_centerLeft.png using Guid(c023bfb3bb297af489f916d903d4eaef) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fecdcd1bd89f35e176dbdc84e645fb52') in 0.0146108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_withFlowers_centerCenter.png
+  artifactKey: Guid(7a01df0684350ce40bd97141a436e776) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_withFlowers_centerCenter.png using Guid(7a01df0684350ce40bd97141a436e776) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '13f766aaaa587f8d5a5c61d175b11aea') in 0.014052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Multimidia/Tacinhas
+  artifactKey: Guid(576440e759b2eec45a6759fa05798716) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Tacinhas using Guid(576440e759b2eec45a6759fa05798716) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6a86de25331af5765e5f159479091c90') in 0.007951 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Multimidia/ObjetosGerais/rock_small.png
+  artifactKey: Guid(4f97e760f1a31b74ab5db30735b59fd0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/rock_small.png using Guid(4f97e760f1a31b74ab5db30735b59fd0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6f69b7ead89f5aa92cf6663d9af030b5') in 0.0146971 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Multimidia/Efeitos/Rise02.aif
+  artifactKey: Guid(d8506817aef8f084b8bd70a3be7f31ce) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Efeitos/Rise02.aif using Guid(d8506817aef8f084b8bd70a3be7f31ce) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '10690d25a270c5b810fa14904ffe4a74') in 0.0238204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Multimidia/ObjetosGerais/stoneHouse_inside_bottomLeftCorner.png
+  artifactKey: Guid(3e4e4ef67bb41d94bb33547072145c0c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/stoneHouse_inside_bottomLeftCorner.png using Guid(3e4e4ef67bb41d94bb33547072145c0c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5febc1ee17baa5109fde8db9e324815b') in 0.0158998 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Multimidia/ObjetosGerais/Monsters.png
+  artifactKey: Guid(10ec7c77207855d488a584b7be1b66ed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/Monsters.png using Guid(10ec7c77207855d488a584b7be1b66ed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6ee9b9810999c97b0c84c20e1d1eda29') in 0.0151819 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topLeftCorner.png
+  artifactKey: Guid(1c4c2af72592500408e9bb0f20110dd4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topLeftCorner.png using Guid(1c4c2af72592500408e9bb0f20110dd4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eef4306cfcc97d1ebd6a833686978484') in 0.0151245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Multimidia/Efeitos/FX01.aif
+  artifactKey: Guid(b39318406fab7c4428009dfcf04c5f9d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Efeitos/FX01.aif using Guid(b39318406fab7c4428009dfcf04c5f9d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c7792dcc148e95555bd87705a1f9c3fd') in 0.024452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_centerCenter.png
+  artifactKey: Guid(b88d27151ea35f9418c4d54ac9f2a1b1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_centerCenter.png using Guid(b88d27151ea35f9418c4d54ac9f2a1b1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f6ae879ee75f84bb039215d16a7af2f2') in 0.0154114 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Multimidia/ObjetosGerais/coin1.png
+  artifactKey: Guid(c95083f60ba2b884e9602391c72b3697) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/coin1.png using Guid(c95083f60ba2b884e9602391c72b3697) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '19f89032aee3b3615cd418baa4550441') in 0.0146617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_topCenter.png
+  artifactKey: Guid(b885c787b10c021499fa75ffe8c2fad1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_topCenter.png using Guid(b885c787b10c021499fa75ffe8c2fad1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '10091973d967b60d08d06a2ea2751afd') in 0.0149965 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Multimidia/ObjetosGerais/tree.png
+  artifactKey: Guid(6df04092b772f4841bfda553a506b681) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/tree.png using Guid(6df04092b772f4841bfda553a506b681) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5cd08e565a59ffbb21651f22cf04dd78') in 0.0152738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Multimidia/Fontes/Hello Valentina.ttf
+  artifactKey: Guid(9eaf801772fed284682b9880fb5d71f5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Fontes/Hello Valentina.ttf using Guid(9eaf801772fed284682b9880fb5d71f5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '645c3b85ccd6f4933bc99ec906bd8b13') in 0.0210722 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Multimidia/ObjetosGerais/woodHouse_inside_topDoor.png
+  artifactKey: Guid(2e0951b5584d4534c88f66481d4216ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/woodHouse_inside_topDoor.png using Guid(2e0951b5584d4534c88f66481d4216ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a3f2660b6d62fd0944cb2cc2d68f9d9f') in 0.0144509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topRightCorner.png
+  artifactKey: Guid(0bfffb123fd878b4399420c8adf65d4a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topRightCorner.png using Guid(0bfffb123fd878b4399420c8adf65d4a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '026268a27593419627572206aa0628aa') in 0.0162269 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Multimidia/ObjetosGerais/Props.png
+  artifactKey: Guid(836d8ca3604cf4d428aff26bfa6ce068) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/Props.png using Guid(836d8ca3604cf4d428aff26bfa6ce068) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '90e00d1fbda15c3442f748c9c24e8165') in 0.0132435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Multimidia/ObjetosGerais/CP_V1.0.4.png
+  artifactKey: Guid(d249ef5157f798343999357865f27264) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/CP_V1.0.4.png using Guid(d249ef5157f798343999357865f27264) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f2c36111fcd7e6c9e7d73acf54757c42') in 0.0191768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_bottomLeft.png
+  artifactKey: Guid(dde1e918fbae953419cbec93b83a5a57) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_bottomLeft.png using Guid(dde1e918fbae953419cbec93b83a5a57) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '20f0278945dcc9bfd89776420041dfe3') in 0.0147032 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_topRight.png
+  artifactKey: Guid(aedadb19d4ee9b44b952194ae0563c94) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_topRight.png using Guid(aedadb19d4ee9b44b952194ae0563c94) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e84c3f94dca213077b4337c60b173a2c') in 0.0151586 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Multimidia/ObjetosGerais/table_rightSide.png
+  artifactKey: Guid(d1cbbb8a8cc526842945b7aad3457610) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/table_rightSide.png using Guid(d1cbbb8a8cc526842945b7aad3457610) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0e289885ce2b8b8abf9a68488310b806') in 0.0146987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassDriedNight_centerRight.png
+  artifactKey: Guid(7c116feaafc258347bef60f9bba6ffff) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassDriedNight_centerRight.png using Guid(7c116feaafc258347bef60f9bba6ffff) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dd4ac153d9d6a86d759e358c4f3f7a02') in 0.0153291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Multimidia/ObjetosGerais/BL001.png
+  artifactKey: Guid(682db11abc8f7904dad953bd043a10ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/BL001.png using Guid(682db11abc8f7904dad953bd043a10ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dae230a7eaa70c846c727bced7ec462a') in 0.0152877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Multimidia/ObjetosGerais/specialBlock_4.png
+  artifactKey: Guid(00e6ea898a01d3f4ebc59ea6c9d0f0df) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/specialBlock_4.png using Guid(00e6ea898a01d3f4ebc59ea6c9d0f0df) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd88e37fc2571189bee699d3bc8b0a645') in 0.0149516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_topLeft.png
+  artifactKey: Guid(4a103d7998f89004badfcc2c56e4c6aa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_topLeft.png using Guid(4a103d7998f89004badfcc2c56e4c6aa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c9c1e8438e67136873acdebf2c760562') in 0.0148732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Multimidia/ObjetosGerais/woodHouse_inside_rightCenter.png
+  artifactKey: Guid(b1a848aaef2efb043ab3984214c481f8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/woodHouse_inside_rightCenter.png using Guid(b1a848aaef2efb043ab3984214c481f8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b0ac599c23b3e7ec9f5c9ecaeaf0aadf') in 0.0157508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_withFlowers_centerLeft.png
+  artifactKey: Guid(8d07e98ae3de40a4087e3f53344aebdd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_withFlowers_centerLeft.png using Guid(8d07e98ae3de40a4087e3f53344aebdd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '70f132059b813afaaa075378d5ff0e9f') in 0.0156196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Multimidia/Efeitos/Rise01.aif
+  artifactKey: Guid(730a560b7eb45c74694e6b36a68534e5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Efeitos/Rise01.aif using Guid(730a560b7eb45c74694e6b36a68534e5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0a1c5d450c39f73e67d5b90f9ca7b7e7') in 0.0244689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_5.png
+  artifactKey: Guid(5ef1fa2b5d7e02f4bb2d443ab128bafe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_5.png using Guid(5ef1fa2b5d7e02f4bb2d443ab128bafe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '164a85cecbd62cc752d648ffa4c26925') in 0.0144038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Multimidia/ObjetosGerais/gem.png
+  artifactKey: Guid(05513029fd0b7164483e731daec650ae) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/gem.png using Guid(05513029fd0b7164483e731daec650ae) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2ec99e2ff3acfa74a95ef0b7814642bd') in 0.0141008 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Multimidia/ObjetosGerais/bushFrame1.png
+  artifactKey: Guid(355fde6b7dc19e54fb17aea5e03b5e8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/bushFrame1.png using Guid(355fde6b7dc19e54fb17aea5e03b5e8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2c7f83ae5e48e119e8a2390a2be0da3b') in 0.0147749 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Multimidia/ObjetosGerais/blueBlock2.png
+  artifactKey: Guid(bdf72841d4aa9e6489961f33f80f3da2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/blueBlock2.png using Guid(bdf72841d4aa9e6489961f33f80f3da2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '914a3456bd859c467f11ef4c3debb3d4') in 0.0153314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Multimidia/ObjetosGerais/rock_large.png
+  artifactKey: Guid(4b69feaab7194f54c9cf9224828336f8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/rock_large.png using Guid(4b69feaab7194f54c9cf9224828336f8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '906761484c6120bd9f5171129b6c5d56') in 0.0150412 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Multimidia/ObjetosGerais/greenPotion.png
+  artifactKey: Guid(804f5cd5c28ccd04180cb19dd16811a8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/greenPotion.png using Guid(804f5cd5c28ccd04180cb19dd16811a8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f5f140a51a02096af11ce5aeb18d0aa7') in 0.0137469 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_dried_topLeft.png
+  artifactKey: Guid(ea66864619718774b9f2c8f7feaf9584) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_dried_topLeft.png using Guid(ea66864619718774b9f2c8f7feaf9584) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '85be94817b86a6390b679b3acb956bf0') in 0.0145191 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Multimidia/ObjetosGerais/largeRock.png
+  artifactKey: Guid(390905887ecd9cb45b83a02ebbf70136) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/largeRock.png using Guid(390905887ecd9cb45b83a02ebbf70136) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'feb0c4078fc1843e38165cfebbb21e1b') in 0.0144751 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Multimidia/ObjetosGerais/TileObjectsOfficeFurniture_0.png
+  artifactKey: Guid(00a156850765ca64b9892ba382b28fc2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/TileObjectsOfficeFurniture_0.png using Guid(00a156850765ca64b9892ba382b28fc2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dd00dc18146eb0b8aaf8d26bdea22378') in 0.0144861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_dried_centerCenter.png
+  artifactKey: Guid(c1d0fc51c5c0a3b48880f4173a3773a7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_dried_centerCenter.png using Guid(c1d0fc51c5c0a3b48880f4173a3773a7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ceb7d8b72bc8d664f4933fe63adf54a9') in 0.0164293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Multimidia/ObjetosGerais/goldenBrownBlock2.png
+  artifactKey: Guid(42f29bd3eb0f355469237af758189a9d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/goldenBrownBlock2.png using Guid(42f29bd3eb0f355469237af758189a9d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '40331cc5d25cb91f19b775decee28206') in 0.0148055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Multimidia/ObjetosGerais/table_center.png
+  artifactKey: Guid(f11491394bc27184ca7257f6c8b07418) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/table_center.png using Guid(f11491394bc27184ca7257f6c8b07418) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fa293881e00e128325c59f9803dd054a') in 0.0151807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_withFlowers_bottomRight.png
+  artifactKey: Guid(213df93a504ba4b468ebc6e8dcc5ef6f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_withFlowers_bottomRight.png using Guid(213df93a504ba4b468ebc6e8dcc5ef6f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '943939bee7099c2cee0440b0ce58c3bd') in 0.0156078 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topCenter.png
+  artifactKey: Guid(3e3ffcd19ba197848b077976ba288db3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topCenter.png using Guid(3e3ffcd19ba197848b077976ba288db3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '65a7b9f2cc5fe95356892ed77441db86') in 0.0167312 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Multimidia/ObjetosGerais/keyCard_a.png
+  artifactKey: Guid(4b485207d15f06b4ea5341b4d09c0978) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/keyCard_a.png using Guid(4b485207d15f06b4ea5341b4d09c0978) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '11ec560734abdab7957540fb2db4fc82') in 0.0140738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_bottomCenter.png
+  artifactKey: Guid(d94ec88513cf30347949afa3983e0451) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_bottomCenter.png using Guid(d94ec88513cf30347949afa3983e0451) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd4f2da7d15705ffbc7bc41c9b1f311fe') in 0.0173644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Multimidia/ObjetosGerais/heart.png
+  artifactKey: Guid(8b4a957be4b763349af8278160c4ff41) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/heart.png using Guid(8b4a957be4b763349af8278160c4ff41) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4d4f53bbc890d851932c44269b1bcbd7') in 0.014918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Multimidia/ObjetosGerais/woodPlanks.png
+  artifactKey: Guid(e12ede92cfd6a274fbb0df3f9cfc9314) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/woodPlanks.png using Guid(e12ede92cfd6a274fbb0df3f9cfc9314) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c98dbb4aa0ffacfaa896113308ffe2f6') in 0.014636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_dried_centerRight.png
+  artifactKey: Guid(2a8f0432c7136314b8ca67efdedebb17) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_dried_centerRight.png using Guid(2a8f0432c7136314b8ca67efdedebb17) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c3432caed459075d2dabcd7a54c1064f') in 0.0148763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassDriedNight_topCenter.png
+  artifactKey: Guid(b567cfb8afb8d8f48a7eb148e8040b86) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassDriedNight_topCenter.png using Guid(b567cfb8afb8d8f48a7eb148e8040b86) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a39c0e4e5fcc53ffdafc7763d0e897de') in 0.0166376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Multimidia/ObjetosGerais/sign_poster.png
+  artifactKey: Guid(9afab3809f8c2fb44be7473164a52fd6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/sign_poster.png using Guid(9afab3809f8c2fb44be7473164a52fd6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3f4c1c9d2b4b851bd6b53484317ee7ab') in 0.017101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_bottomRight.png
+  artifactKey: Guid(78de6ba98946e26478277370211b0baa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_bottomRight.png using Guid(78de6ba98946e26478277370211b0baa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f6fba21ecedbdf72e8e5eaa6ba5351f6') in 0.0166131 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_withFlowers_topRight.png
+  artifactKey: Guid(0a50475df0c96014e8c321d243d24383) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_withFlowers_topRight.png using Guid(0a50475df0c96014e8c321d243d24383) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e1627b82b8e934115eba7e757ee02e79') in 0.015869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Multimidia/ObjetosGerais/caveBackground.png
+  artifactKey: Guid(a6abc00d351afb241ab3875ecabb36ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/caveBackground.png using Guid(a6abc00d351afb241ab3875ecabb36ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5d6a9a93e9377d76812158d9a02b9075') in 0.0150853 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Multimidia/ObjetosGerais/potion_empty.png
+  artifactKey: Guid(45ca2b9ff324d65469413c16f96011bb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/potion_empty.png using Guid(45ca2b9ff324d65469413c16f96011bb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '91f3b18b15cfd6960173bd3a4ac7cc0a') in 0.0162468 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_topRight.png
+  artifactKey: Guid(f836b58d12f3d1b4e9545fe0fe0eb25c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_topRight.png using Guid(f836b58d12f3d1b4e9545fe0fe0eb25c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c383d94cb49e73231c31e97cc0579c0b') in 0.0159685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Multimidia/ObjetosGerais/centerGround.png
+  artifactKey: Guid(cf0963cce2de5bd4cb883afe1b1350ca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/centerGround.png using Guid(cf0963cce2de5bd4cb883afe1b1350ca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a68454028df93129bb23a299f78d92c4') in 0.0176414 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Multimidia/ObjetosGerais/rocks_group_night.png
+  artifactKey: Guid(f2c880ad658f22f41a1df0e791d53937) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/rocks_group_night.png using Guid(f2c880ad658f22f41a1df0e791d53937) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8343ad2f4987072e7f9f2a273e3bdfda') in 0.0158049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topDoor.png
+  artifactKey: Guid(5099c69f030156e439e2f0392b847f45) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topDoor.png using Guid(5099c69f030156e439e2f0392b847f45) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '069b76c0e94e8856c4ddf2e4bf25423e') in 0.0145397 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_bottomLeft.png
+  artifactKey: Guid(7f33af5f1f370f641adf9cb566e9347f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_bottomLeft.png using Guid(7f33af5f1f370f641adf9cb566e9347f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '26fa5ab1ccf30be6fec9f7e0d901bf47') in 0.0158163 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Multimidia/ObjetosGerais/specialBlock_1.png
+  artifactKey: Guid(614e569d20ee4074dbf197b8967f94fa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/specialBlock_1.png using Guid(614e569d20ee4074dbf197b8967f94fa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3220741ee96b3f214a98c29195c93b92') in 0.0154344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_centerRight.png
+  artifactKey: Guid(f26175fde49d1cb4f8ccf42e406e1e52) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_centerRight.png using Guid(f26175fde49d1cb4f8ccf42e406e1e52) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4dc5b79faec211b6b80782b5213d4eb7') in 0.0158045 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Multimidia/ObjetosGerais/coin6.png
+  artifactKey: Guid(b133fb0ccbb541148a6c87336c2fdae6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/coin6.png using Guid(b133fb0ccbb541148a6c87336c2fdae6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7f1facb447997bfc05ac6bfe1e4d3f6d') in 0.0160439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Multimidia/ObjetosGerais/redBlock.png
+  artifactKey: Guid(8144d8fd29b3cb54a821fb2a1ef51e96) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/redBlock.png using Guid(8144d8fd29b3cb54a821fb2a1ef51e96) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9d390ad76c244809f2c47a6f6b891de6') in 0.0149155 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Multimidia/ObjetosGerais/RpgItems1.png
+  artifactKey: Guid(58f652af68dc0e746bc0e8fb79d62e18) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/RpgItems1.png using Guid(58f652af68dc0e746bc0e8fb79d62e18) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dbc5c84af89e48ec12e8720b53a3e161') in 0.0185929 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Multimidia/ObjetosGerais/stoneHouse_inside_bottomRightCorner.png
+  artifactKey: Guid(f1e63accd26132d4b8cce4162f272915) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/stoneHouse_inside_bottomRightCorner.png using Guid(f1e63accd26132d4b8cce4162f272915) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '421acfff47477358b061b35bb8f430d5') in 0.0167627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Multimidia/Tacinhas/03VinhoTinto.png
+  artifactKey: Guid(5a4a42be69fff8b4c9c3b064eef1bad5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Tacinhas/03VinhoTinto.png using Guid(5a4a42be69fff8b4c9c3b064eef1bad5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a43967c1c473fba91540a12970b944b7') in 0.0154204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Multimidia/Efeitos/Rise03.aif
+  artifactKey: Guid(752f3fcd82fffd6478e5855ae415c7bd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Efeitos/Rise03.aif using Guid(752f3fcd82fffd6478e5855ae415c7bd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '082d1f89a4d7345f51031754f08676bf') in 0.0263408 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Multimidia/ObjetosGerais/woodHouse_inside_topCenter.png
+  artifactKey: Guid(a2afd5dd8d297624283566da185476ca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/woodHouse_inside_topCenter.png using Guid(a2afd5dd8d297624283566da185476ca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fecfc9f1d197530d578e462e7c987ec6') in 0.0171448 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Multimidia/ObjetosGerais/leftStraight.png
+  artifactKey: Guid(9f7936ef553e38344aa45438f84f5c4f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/leftStraight.png using Guid(9f7936ef553e38344aa45438f84f5c4f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c21c59b892ce2d60da8fe61d26f523b4') in 0.0165625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Multimidia/ObjetosGerais/sidewalk_night.png
+  artifactKey: Guid(5aff9a4e743dff24fae3cf7a5de9d98f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/sidewalk_night.png using Guid(5aff9a4e743dff24fae3cf7a5de9d98f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eb3f3b9ad551b600cb36b4b35fad4ce0') in 0.0160567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Multimidia/ObjetosGerais/keyCard_b.png
+  artifactKey: Guid(47fa539d31861d648942e965add70829) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/keyCard_b.png using Guid(47fa539d31861d648942e965add70829) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '941fcec3b950e5051f791734c765b2d3') in 0.0151495 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Multimidia/ObjetosGerais/Nature.png
+  artifactKey: Guid(adcb5c9ebb3512544b359fde38deb420) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/Nature.png using Guid(adcb5c9ebb3512544b359fde38deb420) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3a7133bedea76a8f430e93946e85c5d1') in 0.0152749 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Multimidia/ObjetosGerais/woodHouse_inside_floor.png
+  artifactKey: Guid(29b241ee287afa44eb949f0ed5c3bf42) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/woodHouse_inside_floor.png using Guid(29b241ee287afa44eb949f0ed5c3bf42) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '974e307901e332f1abb36969baffc73e') in 0.0168526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_withFlowers_topLeft.png
+  artifactKey: Guid(9cb721ffb61371b4a84867fbeadb0b38) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_withFlowers_topLeft.png using Guid(9cb721ffb61371b4a84867fbeadb0b38) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ebf4d51a39fefe31646e1ccff37b45a') in 0.0165242 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_topRight.png
+  artifactKey: Guid(ea936d3f1326c274f960da2853de9609) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_topRight.png using Guid(ea936d3f1326c274f960da2853de9609) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '23d2ad63182c887213cf24b4710889ab') in 0.0163225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Multimidia/ObjetosGerais/leftCorner.png
+  artifactKey: Guid(e738288b5c2a5fd4fa4f849990c97ef2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/leftCorner.png using Guid(e738288b5c2a5fd4fa4f849990c97ef2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6a63e57f9be12f851ea6aaa9eacccb73') in 0.0176005 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Multimidia/ObjetosGerais/spike2.png
+  artifactKey: Guid(fcc14d0e16d4afc44aedf0e0e89fc032) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/spike2.png using Guid(fcc14d0e16d4afc44aedf0e0e89fc032) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '080b3b2ebf55ac60e95cee2c8cddf019') in 0.0159948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Multimidia/ObjetosGerais
+  artifactKey: Guid(6b33306652ac49841831337a15ef8387) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais using Guid(6b33306652ac49841831337a15ef8387) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cfb948c0d1750bcfc5e9aa0cf9854563') in 0.011009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_topLeft.png
+  artifactKey: Guid(88875948b1b4a0d479d9787956e7c113) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_topLeft.png using Guid(88875948b1b4a0d479d9787956e7c113) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '43c40c7e8ce38778d49a82d8ab33e1c3') in 0.0142548 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grass_withFlowers_bottomLeft.png
+  artifactKey: Guid(a936aeaaa0023f749bf97ce4fba4098b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grass_withFlowers_bottomLeft.png using Guid(a936aeaaa0023f749bf97ce4fba4098b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1e49afd02a351c8f019b10505546c007') in 0.4123697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Multimidia/ObjetosGerais/woodHouse_inside_bottomRightCorner.png
+  artifactKey: Guid(8ddf0999ede043d45a0b3d30f9fd1179) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/woodHouse_inside_bottomRightCorner.png using Guid(8ddf0999ede043d45a0b3d30f9fd1179) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cf09830a1181b6cc60852d9f3591cd9e') in 0.0162382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Multimidia/Fontes
+  artifactKey: Guid(31ab0f3a193353f4dbf5971ac13ed00c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/Fontes using Guid(31ab0f3a193353f4dbf5971ac13ed00c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dc7738db0b4094a99cf5898e766ce3c5') in 0.0091314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Multimidia/ObjetosGerais/table_leftSide.png
+  artifactKey: Guid(8caa1e99e8476504fbc1f4c86dc65491) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/table_leftSide.png using Guid(8caa1e99e8476504fbc1f4c86dc65491) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b1ac81e0971e4b4ef6b8216f95cf736b') in 0.0140676 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Multimidia/ObjetosGerais/SL001.png
+  artifactKey: Guid(8bf6cfd2b0d58f141ae10b5309606f63) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/SL001.png using Guid(8bf6cfd2b0d58f141ae10b5309606f63) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f2fdb9958d67a835747dc841848f24c0') in 0.0150314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Multimidia/ObjetosGerais/bushFrame2.png
+  artifactKey: Guid(42e9c701bf38315409fe80c2b29e10f2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/bushFrame2.png using Guid(42e9c701bf38315409fe80c2b29e10f2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '22b325de41540afdac4e3e8e5ac15cdd') in 0.0135594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassDriedNight_topLeft.png
+  artifactKey: Guid(2abc7f8a469ef714da2cd5e4bbb813b2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Multimidia/ObjetosGerais/grassDriedNight_topLeft.png using Guid(2abc7f8a469ef714da2cd5e4bbb813b2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5c766799e7297a16503a2a6e7d5255c9') in 0.0164287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.138507 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_topCenter.png
+  artifactKey: Guid(cadee9c327a00734bb0940cd5755c8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_topCenter.png using Guid(cadee9c327a00734bb0940cd5755c8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2348f77fe9ca1ec8cce0f15a5a7a8564') in 0.0104718 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_topRight.png
+  artifactKey: Guid(ea936d3f1326c274f960da2853de9609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_topRight.png using Guid(ea936d3f1326c274f960da2853de9609) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c9c5f90dfa584a7f4b1e81f5b575a271') in 0.0088743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Multimidia/ObjetosGerais/greenBlock.png
+  artifactKey: Guid(fc00bd4cac179334db26431313668811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/greenBlock.png using Guid(fc00bd4cac179334db26431313668811) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1191c8aa6fd711ca1add34841e3e7f80') in 0.010105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_bottomCenter.png
+  artifactKey: Guid(d94ec88513cf30347949afa3983e0451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_bottomCenter.png using Guid(d94ec88513cf30347949afa3983e0451) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31f4ddb2216f6277615f3c9f6588fe99') in 0.0106633 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_centerRight.png
+  artifactKey: Guid(adc132e04900e6145a647ae12abffff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_centerRight.png using Guid(adc132e04900e6145a647ae12abffff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da6c8dd8b6017c97157bc97b00b51c1a') in 0.0107948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Multimidia/ObjetosGerais/ground.png
+  artifactKey: Guid(f09f4969515c54f4bbd044d82a70990f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/ground.png using Guid(f09f4969515c54f4bbd044d82a70990f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4f800e6c5c96e84d42b8bc391a159b8') in 0.0136105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Multimidia/ObjetosGerais/potion_green.png
+  artifactKey: Guid(09e7d8d635420e044b0e573ce44af9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/potion_green.png using Guid(09e7d8d635420e044b0e573ce44af9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d82400b37b07b444128f74588809af5') in 0.0121811 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Multimidia/ObjetosGerais/potion_purple.png
+  artifactKey: Guid(96c52ac55182413418ed9f1316d48690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/potion_purple.png using Guid(96c52ac55182413418ed9f1316d48690) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5517a34a5adfc952ed63192e74e071de') in 0.0114809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Multimidia/ObjetosGerais/rock_large.png
+  artifactKey: Guid(4b69feaab7194f54c9cf9224828336f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/rock_large.png using Guid(4b69feaab7194f54c9cf9224828336f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad77a91ddb1f51cd607a190f859f4a9e') in 0.012119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Multimidia/ObjetosGerais/redPotion.png
+  artifactKey: Guid(550f087ba2114ed40b8796f83829f8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/redPotion.png using Guid(550f087ba2114ed40b8796f83829f8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f787d71151c4d5e22d7ac50c92a12349') in 0.0185001 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Multimidia/ObjetosGerais/potion_red.png
+  artifactKey: Guid(61c5c1092e0c29e42a5faa670648b109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/potion_red.png using Guid(61c5c1092e0c29e42a5faa670648b109) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a8948f73c9e859061fe9460fd3803852') in 0.0103789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Multimidia/ObjetosGerais/groundGrass.png
+  artifactKey: Guid(33d540f936bbc904983f1488678568c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/groundGrass.png using Guid(33d540f936bbc904983f1488678568c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad1d713e24e2d5d6737e4f50411a1785') in 0.0105476 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_bottomRight.png
+  artifactKey: Guid(7a8231b79d8515c4c8d63beeb902a4af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/grassNight_withFlowers_bottomRight.png using Guid(7a8231b79d8515c4c8d63beeb902a4af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '094810df8cb346669e84ae6ef6acd409') in 0.0170497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181850 seconds.
+  path: Assets/Multimidia/ObjetosGerais/rocks_small_night.png
+  artifactKey: Guid(afb3d274df8d86149b53256a263349cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/rocks_small_night.png using Guid(afb3d274df8d86149b53256a263349cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9549fee5e104a0c9121303c7a30cfe2') in 0.007723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Multimidia/ObjetosGerais/specialBlock_1.png
+  artifactKey: Guid(614e569d20ee4074dbf197b8967f94fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/specialBlock_1.png using Guid(614e569d20ee4074dbf197b8967f94fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '161b55d0d403e6ef86f446520c2b7ac3') in 0.0094254 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Multimidia/ObjetosGerais/sidewalk.png
+  artifactKey: Guid(954c5c82cf9957748b323a2416e23156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/sidewalk.png using Guid(954c5c82cf9957748b323a2416e23156) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4069398cf9bdaea04365af90f7425c59') in 0.0125892 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Multimidia/ObjetosGerais/table_rightSide.png
+  artifactKey: Guid(d1cbbb8a8cc526842945b7aad3457610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/table_rightSide.png using Guid(d1cbbb8a8cc526842945b7aad3457610) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39149c4497bbbe479a1b9f2def3e4608') in 0.0095301 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topCenter.png
+  artifactKey: Guid(3e3ffcd19ba197848b077976ba288db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/stoneHouse_inside_topCenter.png using Guid(3e3ffcd19ba197848b077976ba288db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '994fd8d67898fa333d079f35eb1288b2') in 0.0094817 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Multimidia/ObjetosGerais/spike2.png
+  artifactKey: Guid(fcc14d0e16d4afc44aedf0e0e89fc032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/spike2.png using Guid(fcc14d0e16d4afc44aedf0e0e89fc032) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06e226024c06bbd2e09bc61aaf1b1554') in 0.0092867 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Multimidia/ObjetosGerais/TileObjectsOfficeFurniture_0.png
+  artifactKey: Guid(00a156850765ca64b9892ba382b28fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/TileObjectsOfficeFurniture_0.png using Guid(00a156850765ca64b9892ba382b28fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '898adb39aacaa926708bb1e081ef40eb') in 0.0118694 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Multimidia/ObjetosGerais/woodHouse_inside_bottomRightCorner.png
+  artifactKey: Guid(8ddf0999ede043d45a0b3d30f9fd1179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/woodHouse_inside_bottomRightCorner.png using Guid(8ddf0999ede043d45a0b3d30f9fd1179) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '340c227fe5f7d01bd247347908801d62') in 0.0095753 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Multimidia/ObjetosGerais/Wood.png
+  artifactKey: Guid(d75eccb383cd49a43bc7d8569b372219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/Wood.png using Guid(d75eccb383cd49a43bc7d8569b372219) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4e8c48f2f33791fbc2e2ce949183ed5') in 0.0094808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Multimidia/ObjetosGerais/woodHouse_inside_bottomDoor.png
+  artifactKey: Guid(1e34b2b471619a445be3b1e7526ffbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimidia/ObjetosGerais/woodHouse_inside_bottomDoor.png using Guid(1e34b2b471619a445be3b1e7526ffbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '195791c8f6a348aeb4edc66aa80f761d') in 0.0095027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
